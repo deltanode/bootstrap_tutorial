@@ -1,4 +1,4 @@
-# Bootstrap Tutorial - StepByStep
+# Bootstrap Tutorial [[Live Preview]](https://codescoop.github.io/bootstrap_tutorial/index.html)
 This repository contains starter files and final code for the Bootstrap Tutorial @ [MWB Training Session](https://www.mentorswithoutborders.net/).
 
 ## Introduction
@@ -17,24 +17,24 @@ This repository contains starter files and final code for the Bootstrap Tutorial
   -  [HTML Basic : First webpage](01%20HTML_first_webpage)
   -  [CSS Basic : Linking a CSS document & Simple text formatting](02%20CSS_basics)
   -  [Practice - Layout & Basic Navigation bar using HTML and CSS](03%20Create_CSS_navigation_bar)
-- Bootstrap
-  - [Include Bootstrap via CDN](04%20Bootstrap%20via%20CDN)
-  - Add a navigation bar
-  - Add a content container
-  - Add a heading
-  - Add a table
-  - Add form elements to a table
-  - Add an alert message
-- Project
-  - Website
+- Bootstrap   
+
+    | S.No | Project | Source | Live |
+    | --- | --- | --- | --- |
+    | 1. | Business Website | [Code](04%20Bootstrap/01%20business-website)| [Preview](https://codescoop.github.io/bootstrap_tutorial/index.html)|
+    | 2. | Portfolio Website | [Code](04%20Bootstrap/01%20business-website)| [Preview](https://codescoop.github.io/bootstrap_tutorial/index.html)|
+
+<br>
+
 
 ## Guides And Other Resourses
 
 #### HTML - Hyper Text Markup Language
 
 * *Documentation*
-  * [HTML Tutorial by w3schools.com](https://www.w3schools.com/html/)
   * [HTML docs by Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  * [HTML Tutorial by w3schools.com](https://www.w3schools.com/html/)
+  
 
 * *Video Tutorials*
   * [HTML Full Course](https://youtu.be/pQN-pnXPaVg)
@@ -44,8 +44,9 @@ This repository contains starter files and final code for the Bootstrap Tutorial
 #### CSS - Cascading Style Sheets
 
 * *Documentation*
-  * [CSS Tutorial by w3schools.com](https://www.w3schools.com/css/)
   * [CSS docs by Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  * [CSS Tutorial by w3schools.com](https://www.w3schools.com/css/)
+  
 
 * *Video Tutorials*
   * [CSS Tutorial - Zero to Hero](https://youtu.be/1Rs2ND1ryYc)
@@ -60,6 +61,7 @@ This repository contains starter files and final code for the Bootstrap Tutorial
 * *Video Tutorials*
   * [Bootstrap in One Video](https://www.youtube.com/watch?v=gqOEoUR5RHg)
 
+<br>
 
 ## Additional Useful Links
 
@@ -84,8 +86,8 @@ This repository contains starter files and final code for the Bootstrap Tutorial
 - [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 #### Online Editors
- * https://codesandbox.io/
  * https://codepen.io/
+ * https://codesandbox.io/
  * https://stackblitz.com/
  * https://repl.it/
 
@@ -96,9 +98,17 @@ This repository contains starter files and final code for the Bootstrap Tutorial
 #### Images
 * https://www.pexels.com/
 * http://source.unsplash.com/1300x500
+* http://source.unsplash.com/1300x500?tech
 * https://www.iconfinder.com/search/?q=error&license=2&price=free
 
 => **Feel free to add your own resources and create a PR :)**
+
+<br> 
+
+## Mentor
+
+* [Yogesh Yadav](https://github.com/deltanode)
+
 
 ## License
 
